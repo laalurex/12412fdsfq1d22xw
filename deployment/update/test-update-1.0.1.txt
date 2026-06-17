@@ -1,0 +1,3 @@
+LASPOS test update 1.0.1
+Acest fisier confirma ca bannerul de update si descarcarea din GitHub functioneaza.
+Pentru update-ul final cu installer sau arhiva mare trebuie folosita o sursa care accepta fisiere peste 100 MB.

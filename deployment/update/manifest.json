@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.0",
-    "download_url":  "https://raw.githubusercontent.com/laalurex/12412fdsfq1d22xw/main/deployment/update/LASPOS-Update-1.0.0.zip",
-    "url":  "https://raw.githubusercontent.com/laalurex/12412fdsfq1d22xw/main/deployment/update/LASPOS-Update-1.0.0.zip",
-    "sha256":  "052d047a9ccad8ab919fcc274d743dae61340ca31dcaa1ffc4ff180c87fb7cd1",
-    "channel":  "stable",
-    "published_at":  "2026-06-17T21:55:36Z",
-    "notes":  "Actualizare LASPOS publicata prin GitHub."
+    "version": "1.0.1",
+    "download_url": "https://raw.githubusercontent.com/laalurex/12412fdsfq1d22xw/main/deployment/update/test-update-1.0.1.txt",
+    "url": "https://raw.githubusercontent.com/laalurex/12412fdsfq1d22xw/main/deployment/update/test-update-1.0.1.txt",
+    "sha256": "",
+    "channel": "stable",
+    "published_at": "2026-06-18T00:45:00Z",
+    "notes": "Test update LASPOS 1.0.1 din GitHub."
 }
